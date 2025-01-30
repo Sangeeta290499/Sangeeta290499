@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="300" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeeta290499&label=Profile%20views&color=0e75b6&style=flat" alt="sangeeta290499" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sangeeta290499&label=Profile%20views&color=0e75b6&style=flat" alt="Sangeeta290499" /> </p>
 
 - 🔭 I’m currently working on **chat_app**
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sangeeta290499)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sangeeta290499)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,10 +41,10 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangeeta290499&show_icons=true&locale=en&layout=compact" alt="sangeeta290499" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sangeeta290499&show_icons=true&locale=en&layout=compact" alt="Sangeeta290499" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeeta290499&show_icons=true&locale=en" alt="sangeeta290499" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sangeeta290499&show_icons=true&locale=en" alt="Sangeeta290499" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangeeta290499" alt="sangeeta290499" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sangeeta290499" alt="Sangeeta290499" /></p>
 
 
