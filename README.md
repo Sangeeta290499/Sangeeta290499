@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java fullStack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sangeeta290499](https://github.com/Sangeeta290499)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sangeetavarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sangeetavarun" height="30" width="40" /></a>
