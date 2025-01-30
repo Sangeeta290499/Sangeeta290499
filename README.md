@@ -1,11 +1,18 @@
+[![MasterHead](https://www.solodev.com/core/fileparse.php/131/urlt/programming-languages-solodev_final.jpg)](https://portfolio-sbaj-l9e9zwml3-sangeeta-varuns-projects.vercel.app/)
+
+
 <h1 align="center">Hi 👋, I'm Sangeeta Varun</h1>
 <h3 align="center">I am a Software Engineer</h3>
+<img align="right" alt="Coding" width="300" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeeta290499&label=Profile%20views&color=0e75b6&style=flat" alt="sangeeta290499" /> </p>
 
 - 🔭 I’m currently working on **chat_app**
 
 - 🌱 I’m currently learning **Java fullStack**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Sangeeta290499](https://github.com/Sangeeta290499)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
