@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sangeeta Varun</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
+<img align="right" alt="Coding" width="300" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeeta290499&label=Profile%20views&color=0e75b6&style=flat" alt="sangeeta290499" /> </p>
 
@@ -45,4 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeeta290499&show_icons=true&locale=en" alt="sangeeta290499" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangeeta290499&" alt="sangeeta290499" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangeeta290499" alt="sangeeta290499" /></p>
+
+
