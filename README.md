@@ -8,9 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeeta290499&label=Profile%20views&color=0e75b6&style=flat" alt="sangeeta290499" /> </p>
 
-- 🔭 I’m currently working on **DSA**
-
-- 🌱 I’m currently learning **Java fullStack**
+- 🔭 I’m currently learning **DSA** and **Java fullStack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sangeeta290499](https://github.com/Sangeeta290499)
 
