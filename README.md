@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeeta290499&label=Profile%20views&color=0e75b6&style=flat" alt="sangeeta290499" /> </p>
 
-- 🔭 I’m currently working on **chat_app**
+- 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **Java fullStack**
 
